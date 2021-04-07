@@ -7,10 +7,14 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### Содержание:
-1. Что-то
+### *Содержание*:
+1. [about GIT](./aboutgit.md)
 2. [git add](./add.md)
-
+3. [git pull/fetch](./pull.md)
+4. [git push](./push.md)
+5. [git commit](./commit.md)
+6. [git merge](./merge.md)
+7. [git checkout](./checkout.md)
 
 ---
 
